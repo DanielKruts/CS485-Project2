@@ -1,0 +1,101 @@
+ avgError: 123.779
+ 0 - FlowID: 159.178.108.111  estSize: 10484  trueSize:  9848
+ 1 - FlowID:  104.17.183.118  estSize: 10253  trueSize:  9956
+ 2 - FlowID: 104.154.198.228  estSize: 10031  trueSize:  9835
+ 3 - FlowID:  187.237.14.200  estSize:  9765  trueSize:  9747
+ 4 - FlowID:  159.178.237.53  estSize:  9753  trueSize:  9681
+ 5 - FlowID:    70.187.95.95  estSize:  9748  trueSize:  9510
+ 6 - FlowID:    52.84.76.175  estSize:  9532  trueSize:  9450
+ 7 - FlowID:   103.26.37.253  estSize:  9326  trueSize:  9324
+ 8 - FlowID:  165.215.209.15  estSize:  9142  trueSize:  8982
+ 9 - FlowID:    104.92.17.82  estSize:  9084  trueSize:  8390
+10 - FlowID:    88.231.33.95  estSize:  8982  trueSize:  8968
+11 - FlowID:   73.224.42.241  estSize:  8931  trueSize:  8910
+12 - FlowID: 159.178.102.100  estSize:  8779  trueSize:  8733
+13 - FlowID:  54.230.161.109  estSize:  8729  trueSize:  8673
+14 - FlowID:  159.178.107.44  estSize:  8700  trueSize:  8698
+15 - FlowID:  216.52.195.182  estSize:  8616  trueSize:  8584
+16 - FlowID:    23.202.88.31  estSize:  8532  trueSize:  8462
+17 - FlowID:    96.7.182.150  estSize:  8386  trueSize:  8364
+18 - FlowID:   157.55.39.140  estSize:  8090  trueSize:  8058
+19 - FlowID:  149.169.208.76  estSize:  8037  trueSize:  8030
+20 - FlowID: 128.227.112.222  estSize:  7906  trueSize:  7904
+21 - FlowID:   104.16.89.188  estSize:  7871  trueSize:  7867
+22 - FlowID:    66.249.64.14  estSize:  7807  trueSize:  7701
+23 - FlowID:   63.251.240.12  estSize:  7784  trueSize:  7380
+24 - FlowID:  69.252.101.144  estSize:  7766  trueSize:  7763
+25 - FlowID:  34.206.148.175  estSize:  7683  trueSize:  7485
+26 - FlowID:  156.154.65.196  estSize:  7639  trueSize:  7597
+27 - FlowID: 159.178.137.117  estSize:  7593  trueSize:  7581
+28 - FlowID:   98.18.150.191  estSize:  7454  trueSize:  6714
+29 - FlowID:  91.198.117.247  estSize:  7445  trueSize:  7394
+30 - FlowID:    8.27.160.227  estSize:  7392  trueSize:  7272
+31 - FlowID: 192.210.199.106  estSize:  7374  trueSize:  7374
+32 - FlowID:    95.101.36.67  estSize:  7369  trueSize:  6666
+33 - FlowID:  159.178.112.71  estSize:  7339  trueSize:  7315
+34 - FlowID:   174.70.89.126  estSize:  7315  trueSize:  7291
+35 - FlowID:    68.64.22.136  estSize:  7279  trueSize:  7262
+36 - FlowID:    172.217.8.80  estSize:  7219  trueSize:  7187
+37 - FlowID:  54.192.205.183  estSize:  7215  trueSize:  6537
+38 - FlowID:   120.239.64.18  estSize:  7155  trueSize:  7122
+39 - FlowID:    98.18.16.218  estSize:  7137  trueSize:  6944
+40 - FlowID: 159.178.115.102  estSize:  7065  trueSize:  7063
+41 - FlowID: 159.178.129.112  estSize:  7026  trueSize:  7011
+42 - FlowID:   73.224.76.160  estSize:  6946  trueSize:  6946
+43 - FlowID:   112.198.103.2  estSize:  6878  trueSize:  6652
+44 - FlowID:    71.6.146.185  estSize:  6812  trueSize:  6808
+45 - FlowID:  159.178.129.91  estSize:  6800  trueSize:  6783
+46 - FlowID:  159.178.108.48  estSize:  6523  trueSize:  6501
+47 - FlowID:  209.112.113.33  estSize:  6487  trueSize:  6487
+48 - FlowID: 159.178.100.162  estSize:  6435  trueSize:  6392
+49 - FlowID:   198.245.89.70  estSize:  6335  trueSize:  6296
+50 - FlowID:  159.178.119.40  estSize:  6186  trueSize:  6164
+51 - FlowID: 171.161.207.200  estSize:  6153  trueSize:  6136
+52 - FlowID:   216.58.219.67  estSize:  6097  trueSize:  5122
+53 - FlowID:  159.178.32.133  estSize:  6068  trueSize:  5890
+54 - FlowID:  75.107.177.176  estSize:  6063  trueSize:   356
+55 - FlowID:   54.192.205.60  estSize:  6063  trueSize:  5543
+56 - FlowID:  159.178.100.82  estSize:  6058  trueSize:  6058
+57 - FlowID:   104.92.16.146  estSize:  6053  trueSize:  5571
+58 - FlowID:  159.178.100.33  estSize:  6026  trueSize:  5996
+59 - FlowID:  66.231.139.112  estSize:  5989  trueSize:  5862
+60 - FlowID:  178.33.214.223  estSize:  5960  trueSize:  5946
+61 - FlowID:   207.46.13.156  estSize:  5894  trueSize:  5892
+62 - FlowID:  159.178.100.84  estSize:  5887  trueSize:  5867
+63 - FlowID:    204.74.115.1  estSize:  5791  trueSize:  5681
+64 - FlowID:  198.102.61.236  estSize:  5766  trueSize:  5752
+65 - FlowID: 159.178.109.180  estSize:  5755  trueSize:  5744
+66 - FlowID:   66.87.114.206  estSize:  5724  trueSize:  5722
+67 - FlowID:  69.172.201.238  estSize:  5715  trueSize:  5690
+68 - FlowID:    23.15.61.170  estSize:  5617  trueSize:  5396
+69 - FlowID:   35.190.151.98  estSize:  5594  trueSize:  5524
+70 - FlowID:  128.227.220.36  estSize:  5557  trueSize:  5525
+71 - FlowID:   99.166.162.58  estSize:  5544  trueSize:  5530
+72 - FlowID:    212.227.17.4  estSize:  5531  trueSize:  5356
+73 - FlowID:   167.68.20.174  estSize:  5525  trueSize:  5423
+74 - FlowID:  199.204.59.137  estSize:  5494  trueSize:  5472
+75 - FlowID:  149.111.148.27  estSize:  5446  trueSize:  5421
+76 - FlowID: 108.179.205.207  estSize:  5434  trueSize:  4076
+77 - FlowID:    40.76.218.33  estSize:  5386  trueSize:  5386
+78 - FlowID:   184.50.26.236  estSize:  5266  trueSize:  5254
+79 - FlowID:  107.77.218.214  estSize:  5254  trueSize:  5254
+80 - FlowID:  128.227.111.65  estSize:  5253  trueSize:  4878
+81 - FlowID:  216.200.96.194  estSize:  5235  trueSize:  5168
+82 - FlowID:    24.236.111.9  estSize:  5220  trueSize:  5216
+83 - FlowID:    59.45.175.56  estSize:  5186  trueSize:  5172
+84 - FlowID:     96.7.49.194  estSize:  5147  trueSize:  5139
+85 - FlowID:    209.73.179.8  estSize:  5142  trueSize:  5108
+86 - FlowID: 128.227.236.254  estSize:  5113  trueSize:  5102
+87 - FlowID: 159.178.108.184  estSize:  5053  trueSize:  5038
+88 - FlowID:  170.146.96.193  estSize:  5052  trueSize:  4926
+89 - FlowID:    208.80.124.2  estSize:  5025  trueSize:  5001
+90 - FlowID:   74.217.66.240  estSize:  5015  trueSize:  3848
+91 - FlowID:     104.17.8.41  estSize:  5010  trueSize:  4932
+92 - FlowID:  159.178.96.156  estSize:  5004  trueSize:  4992
+93 - FlowID:    104.92.12.53  estSize:  5000  trueSize:  5000
+94 - FlowID:   128.227.71.18  estSize:  4974  trueSize:  4926
+95 - FlowID:    208.80.125.4  estSize:  4968  trueSize:  4966
+96 - FlowID:   69.241.99.178  estSize:  4960  trueSize:  4769
+97 - FlowID:   188.184.36.52  estSize:  4910  trueSize:  4904
+98 - FlowID:     54.67.57.25  estSize:  4900  trueSize:  4848
+99 - FlowID:   107.77.220.66  estSize:  4836  trueSize:  4836
