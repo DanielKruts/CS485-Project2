@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <fstream>//For input files
+#include <fstream>
 #include <vector>
 #include <string>
 #include <algorithm>
@@ -10,8 +10,6 @@ const int DEPTH = 3;
 const int WIDTH = 3000;
 
 using namespace std;
-
-//References are used on numerous parameters in functions to ensure there are no extra copies made that ultimately slow down the process of countMinSketch
 
 struct flow{
     string id;
